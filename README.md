@@ -20,4 +20,4 @@ The application supports adding, updating, searching, and deleting student data 
 - Basic error handling
 
 ## Purpose
-Academic/practice project demonstrating Python fundamentals and structured program design.
+ Academic/practice project demonstrating Python fundamentals and structured program design.
